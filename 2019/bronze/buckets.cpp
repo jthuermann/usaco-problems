@@ -1,4 +1,4 @@
-// USACO 2019 US Open, Bronze
+// USACO 2019 US Open Contest, Bronze
 // Problem 1. Bucket Brigade
 // http://www.usaco.org/index.php?page=viewproblem2&cpid=939
 
